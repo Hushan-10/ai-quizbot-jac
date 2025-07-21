@@ -1,4 +1,4 @@
-# 🤖 ai-quizbot-jac: The Ultimate Quiz Experience (GenSpark02)
+# 🤖 ai-quizbot-jac: The Ultimate Quiz Experience (Team : GenSpark02)
 
 Welcome to **ai-quizbot-jac**, a dynamic and intelligent quiz bot built with the Jac programming language! Whether you're a student, educator, or trivia enthusiast, this project offers two exciting modes:
 
