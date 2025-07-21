@@ -30,3 +30,8 @@ It features a classic multi-level quiz game (Step 5) and an advanced, AI-powered
 git clone https://github.com/Hushan-10/ai-quizbot-jac.git
 cd ai-quizbot-jac
 
+## 2. Install Jac Language
+
+```bash
+pip install jac
+
